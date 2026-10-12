@@ -22,7 +22,7 @@
 | [Header pins](https://www.aliexpress.us/item/3256805072379643.html?src=google&gatewayAdapt=glo2usa) | to connect stuff to | 1 | $1.09 | $1.09 | [TLZWLA Official Store](https://www.aliexpress.us/item/3256805072379643.html?src=google&gatewayAdapt=glo2usa) |
 | [PCB](https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010) | JLCPCB | 1 | $4.00 | $4.00 | [JLCPCB](https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010) |
 | **Parts subtotal** | — | — | — | **$20.95** | — |
-| **Tax & shipping** | — | — | — | **$10.00** | — |
-| **Total** | — | — | — | **$30.95** | — |
+| **Tax & shipping** | — | — | — | **$12.00** | — |
+| **Total** | — | — | — | **$32.95** | — |
 
-**$0.95 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$2.95 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
