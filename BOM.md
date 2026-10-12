@@ -21,7 +21,7 @@
 | [Keycaps](https://www.aliexpress.us/item/3256808640925468.html?spm=a2g0o.productlist.main.25.5aa84190WVdnvZ&algo_pvid=82865ec9-fbce-4f48-9f82-5a5a2e0b9391&algo_exp_id=82865ec9-fbce-4f48-9f82-5a5a2e0b9391-24&pdp_ext_f=%7B%22order%22%3A%221536%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%213.76%211.09%21%21%213.76%211.09%21%402103129017917762652794374e0ed9%2112000046843776637%21sea%21US%218282744365%21ABX%211%210%21n_tag%3A-29910%3Bd%3A550993e2%3Bm03_new_user%3A-29895%3BpisId%3A5000000218165385&curPageLogUid=EGYkNFPHd7Lb&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008827240220%7C_p_origin_prod%3A) | to go on the switches | 1 | $1.09 | $1.09 | [SZElectronic Store](https://www.aliexpress.us/item/3256808640925468.html?spm=a2g0o.productlist.main.25.5aa84190WVdnvZ&algo_pvid=82865ec9-fbce-4f48-9f82-5a5a2e0b9391&algo_exp_id=82865ec9-fbce-4f48-9f82-5a5a2e0b9391-24&pdp_ext_f=%7B%22order%22%3A%221536%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%213.76%211.09%21%21%213.76%211.09%21%402103129017917762652794374e0ed9%2112000046843776637%21sea%21US%218282744365%21ABX%211%210%21n_tag%3A-29910%3Bd%3A550993e2%3Bm03_new_user%3A-29895%3BpisId%3A5000000218165385&curPageLogUid=EGYkNFPHd7Lb&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008827240220%7C_p_origin_prod%3A) |
 | [Header pins](https://www.aliexpress.us/item/3256805072379643.html?src=google&gatewayAdapt=glo2usa) | to connect stuff to | 1 | $1.09 | $1.09 | [TLZWLA Official Store](https://www.aliexpress.us/item/3256805072379643.html?src=google&gatewayAdapt=glo2usa) |
 | **Parts subtotal** | — | — | — | **$16.95** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$16.95** | — |
+| **Tax & shipping** | — | — | — | **$10.00** | — |
+| **Total** | — | — | — | **$26.95** | — |
 
-$13.05 left of the tier's funding.
+$3.05 left of the tier's funding.
