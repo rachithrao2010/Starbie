@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) ([open the project](https://halflife.hackclub.com/projects/cmuv5bxva0dmu01smbh1gof4b)). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> A tiny motion-controlled digital pet, basically a desktop Tamagotchi. Totally not a Starboy.
+> A pokemon - style game! You start out with the character blobb (who is essentially a blob) and once you win a battle, the game lets you evolve it into a Blocky (who is made of striaght lines) OR a spiky (who is spiky). Winning further battles lets you evolve your character, and including the initial stage, there are 3 evolutions of each character. Battles have also been changed from a your character vs. other character battle to a your character vs. AI Tic-tac-toe game. You control the Tic-Tac-toe game by tilting the entire pcb. once you're in the right position, click the top switch to lock it in. The AI then does its turn, and the battle continues like this.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
