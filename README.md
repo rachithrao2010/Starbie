@@ -1,4 +1,4 @@
-Hey! This projectwas built as a part of Hack Club Half Life. It was originally intended to be a tamagotchi toy, but i instead turned it into a short, pokemon style game. 
+Hey! This project was built as a part of Hack Club Half Life. It was originally intended to be a tamagotchi toy, but i instead turned it into a short, pokemon style game. 
 
 You start out with the character blobb (who is essentially a blob) and once you win a battle, the game lets you evolve it into a Blocky  (who is made of striaght lines) OR a spiky (who is spiky).
 Winning further battles lets you evolve your character, and including the initial stage, there are 3 evolutions of each character.
