@@ -14,7 +14,8 @@ The online simulation should look like this:
 
 
 Here's a 3D render of the pcb!
-<img width="1295" height="1058" alt="image" src="https://github.com/user-attachments/assets/c6462e2b-cba4-433c-93b7-7a4508856ed9" />
+<img width="1449" height="1154" alt="image" src="https://github.com/user-attachments/assets/7d7c1250-7000-4ca4-96c8-82c342f22e50" />
+
 
 And here's a BOM
 
